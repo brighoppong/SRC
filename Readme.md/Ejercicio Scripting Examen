@@ -1,0 +1,5 @@
+Realizar un script llamado  '01-RUN.sh'   que muestre por pantalla "Hola mundo!" y la ruta de acceso donde he creado el archivo.
+nano 01-RUN.sh
+#!/bin/bash/
+echo "hola mundo"
+./script.sh
